@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<detail>
+  <img align= 'left' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true"/>
+
+  </detail>
