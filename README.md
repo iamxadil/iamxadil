@@ -28,6 +28,9 @@
 
 <h3> ⤥ Languages and Tools </h3>
 <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="22px" width ="22px"/>
+<img src ="https://0to100academy.com/wp-content/uploads/2020/05/main-qimg-28cadbd02699c25a88e5c78d73c7babc-1-300x288.png" height="22px" width ="22px"/>
+
+
 
 <h3> ⤥ Finde Me Elsewhere </h3>
 
