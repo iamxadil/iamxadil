@@ -1,5 +1,5 @@
-#### <p align='center'>Hey there, Adil is here. I'm an ordinary guy who loves to code. 💻🖤<p/>
-<p align='center'>.</p>
+#### <p align='center'>➤ Hey there, Adil is here. I'm an ordinary guy who loves to code. 💻🖤<p/>
+<p align='center'>￬</p>
 
 ##### <p align="center">❛❛ 𝘕𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘴 𝘵𝘳𝘶𝘦, 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘪𝘴 𝘱𝘦𝘳𝘮𝘪𝘵𝘵𝘦𝘥. ❜❜</p>
 
