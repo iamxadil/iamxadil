@@ -42,3 +42,6 @@
 <a href="https://twitter.com/iamxadil">
   <img align="left" height="20px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
+<a href="https://facebook.com/iamxadil">
+  <img align="left" height="20px" src="https://cdn.shortpixel.ai/spai/w_743+q_lossy+ret_img+to_webp/https://www.free-largeimages.com/wp-content/uploads/2015/05/Facebook_Vector_Logo_Hd_02.png" />
+</a>
