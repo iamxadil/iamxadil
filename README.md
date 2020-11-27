@@ -45,3 +45,7 @@
 <a href="https://facebook.com/iamxadil">
   <img align="left" height="20px" src="https://cdn.shortpixel.ai/spai/w_743+q_lossy+ret_img+to_webp/https://www.free-largeimages.com/wp-content/uploads/2015/05/Facebook_Vector_Logo_Hd_02.png" />
 </a>
+<a href="https://tumblr.com/iamxadil">
+  <img align="left" height="20px" src="https://cdn.worldvectorlogo.com/logos/tumblr-icon.svg" />
+</a>
+
