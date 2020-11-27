@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 <detail>
+  <summary>:zap: GitHub's Stats</summary>
   <img align= 'left' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true"/>
-
   </detail>
