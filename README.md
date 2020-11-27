@@ -37,5 +37,8 @@
 
 <h3> ⤥ Finde Me Elsewhere </h3>
 <a href="https://instagram.com/iamxadil">
-  <img align="left" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+  <img align="left" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
+<a href="https://twitter.com/iamxadil">
+  <img align="left" height="20px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
