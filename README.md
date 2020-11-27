@@ -1,12 +1,12 @@
 ## Hey there, Adil is here 👋 
-   I'm an ambition guy who loves to code!
+   I'm an ambition guy who loves to code!, I wrote my first "Hello World" when I was 13yrs. old, and became a passinoate about it 💻.
 
 
 
 Here are some ideas to get you started:
-
+- 
 - 🌱 I’m currently learning everything :frog::broken_heart:
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I broke my arm when I was a kid 🖐 
 
 
 
