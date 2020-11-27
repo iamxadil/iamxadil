@@ -31,9 +31,11 @@
 <code><img height="20" width ="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
 <code><img height="20" width ="20" src="http://www.myiconfinder.com/uploads/iconsets/5afa1ee1e39e6f7ef2cc4737666a2d43.png"></code>
 <code><img height="20" src="http://www.myiconfinder.com/uploads/iconsets/82d5ec86e8e507ad5d83a428c91df0f7.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>  
 
 
 
 <h3> ⤥ Finde Me Elsewhere </h3>
-
+<a href="https://instagram.com/iamxadil">
+  <img align="left" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
