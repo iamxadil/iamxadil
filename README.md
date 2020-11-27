@@ -1,4 +1,4 @@
-### <p align='center'> ❯ Hey there, Adil is here. I'm an ordinary guy who loves to code. 💻🖤 ❮<p/>
+### <p align='center'>  Hey there, Adil is here. I'm an ordinary guy who loves to code. 💻🖤 ❮<p/>
 <p align='center'>.</p><br>
 <p align = 'center'>.</p>
 
