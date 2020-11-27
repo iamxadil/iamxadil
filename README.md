@@ -6,7 +6,7 @@
 
 
 <h3>↳ GitHub's Stats </h3>
-<details align='center'>
+<details>
  <summary>:zap: GitHub's Stats</summary>
  <br>
 <img align= 'center' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true&theme=radical"/>
@@ -16,7 +16,7 @@
      
 
 <h3 >↳ Most Used Languages </h3>
-<details align='center'>
+<details>
  <summary>:zap: Most Used Languages</summary>
  <br>
  
@@ -26,5 +26,5 @@
 
 <br>
 
-<h3> ⮞ Finde Me Elsewhere </h3>
+<h3> ⤥ Finde Me Elsewhere </h3>
 
