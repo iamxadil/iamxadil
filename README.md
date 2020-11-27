@@ -1,11 +1,11 @@
 ## Hey there, Adil is here 👋 
-    d
+   I'm an ambition guy who loves to code!
 
 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning everything :frog:
+- 🌱 I’m currently learning everything :frog::brokenheart:
 - ⚡ Fun fact: ...
 
 
