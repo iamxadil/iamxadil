@@ -52,10 +52,6 @@
 <a href="https://steamcommunity.com/id/xadil/">
   <img align="left" height="20px" src="https://1000logos.net/wp-content/uploads/2020/08/Steam-Logo.png" />
 </a>
-<a href="https://discord.gg/WJtshttb">
-  <img align="left" height="20px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" />
-
-</a>
 
 
 
