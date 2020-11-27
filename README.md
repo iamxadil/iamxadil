@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning everything :frog::brokenheart:
+- 🌱 I’m currently learning everything :frog::broken_heart:
 - ⚡ Fun fact: ...
 
 
