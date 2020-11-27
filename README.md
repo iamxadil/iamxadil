@@ -5,20 +5,26 @@
 <p align='center'>￬</p>
 
 
-<h3 align='center'>↳ GitHub's Stats </h3>
+<h3>↳ GitHub's Stats </h3>
 <details align='center'>
  <summary>:zap: GitHub's Stats</summary>
-<img align= 'left' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true&theme=radical"/>
+ <br>
+<img align= 'center' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true&theme=radical"/>
  
 </details>
 
      
 
-<h3 align='center'>↳ Most Used Languages </h3>
+<h3 >↳ Most Used Languages </h3>
 <details align='center'>
  <summary>:zap: Most Used Languages</summary>
+ <br>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxadil&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+<br>
+
+<h3> ⮞ Finde Me Elsewhere </h3>
 
