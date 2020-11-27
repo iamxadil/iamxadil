@@ -6,7 +6,7 @@
 
 
 <details>
-  **<summary>:zap: GitHub's Stats</summary>**
+ <summary>:zap: GitHub's Stats</summary>
 <img align= 'left' src="https://github-readme-stats-pi-sandy.vercel.app/api?username=iamxadil&showicons=true&hide_border=true&theme=radical"/>
 </details>
 
