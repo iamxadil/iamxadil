@@ -36,7 +36,7 @@
 
 
 <h3> ⤥ Finde Me Elsewhere </h3>
-<a href="https://instagram.com/iamxadil">
+<a href="https://instagram.com/p.ukz">
   <img align="left" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 </a>
 <a href="https://twitter.com/iamxadil">
@@ -45,7 +45,7 @@
 <a href="https://facebook.com/iamxadil">
   <img align="left" height="20px" src="https://cdn.shortpixel.ai/spai/w_743+q_lossy+ret_img+to_webp/https://www.free-largeimages.com/wp-content/uploads/2015/05/Facebook_Vector_Logo_Hd_02.png" />
 </a>
-<a href="https://iamxadil.tumblr.com">
+<a href="https://p-ukz.tumblr.com">
   <img align="left" height="20px" src="https://cdn.worldvectorlogo.com/logos/tumblr-icon.svg" />
 </a>
 </a>
